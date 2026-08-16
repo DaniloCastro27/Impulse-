@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;600&display=swap');
+
+* { box-sizing: border-box; }
+body { margin: 0; background: #0F0E2E; }
+
+@media (max-width: 720px) {
+}
+
+@media (min-width: 860px) {
+  .auth-illustration { display: flex !important; }
+}
